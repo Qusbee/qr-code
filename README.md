@@ -45,7 +45,8 @@ During this project, I strengthened my core CSS and HTML skills:
 ```css
 .card {
   box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
-}```
+}
+```
 
 ## Author
 
