@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iA_BxValidation). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iA_BxValidation).
 
 ## Table of contents
 
@@ -45,7 +45,7 @@ During this project, I strengthened my core CSS and HTML skills:
 ```css
 .card {
   box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
-}
+}```
 
 ## Author
 
