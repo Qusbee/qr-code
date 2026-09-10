@@ -29,8 +29,8 @@ A single-column card (QR code, title, and body text) on a white background, cent
 
 - HTML5
 - CSS
-– Flexbox
-– CSS custom properties
+- Flexbox
+- CSS custom properties
 
 ## Author
 
